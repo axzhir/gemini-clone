@@ -43,7 +43,7 @@ const Main = () => {
           </div>
           : <>
             <div className="greet">
-              <p><span>Hello, Naruto.</span></p>
+              <p><span>Hello, Fanizza.</span></p>
               <p>How can I help you today?</p>
             </div>
             <div className="cards">
